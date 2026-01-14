@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👋 Hi, I'm Hardik
 
 🎓 Engineering Student | 🤖 AI & Machine Learning | 🚀 Building Real-World Projects  
@@ -45,19 +45,6 @@ Think of me as someone who prefers **working code over fancy theory**.
 - Java-based implementations  
 - Focus on logic, edge cases, and performance  
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
 ## 📌 Currently Learning
 - Advanced Machine Learning concepts  
 - LLM-based applications  
@@ -66,9 +53,7 @@ Think of me as someone who prefers **working code over fancy theory**.
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(linkedin.com/in/hardik-arora-582542283)*  
-
----
+- 💼 LinkedIn: linkedin.com/in/hardik-arora-582542283
 
 > “Learning by building. Breaking things intentionally.”
 
