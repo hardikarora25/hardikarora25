@@ -1,16 +1,74 @@
 ## Hi there 👋
+# 👋 Hi, I'm Hardik
 
-<!--
-**hardikarora25/hardikarora25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | 🤖 AI & Machine Learning | 🚀 Building Real-World Projects  
 
-Here are some ideas to get you started:
+I enjoy turning ideas into working systems — especially in **Machine Learning, AI, and backend logic**.  
+Currently focused on **ML model building, LLM-based apps, and deployment-ready projects**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I Do
+- Build ML models from scratch and using libraries
+- Work with data, algorithms, and real-world datasets
+- Explore AI tools like LLMs, LangChain, and cloud platforms
+- Focus on **clarity, performance, and practical use-cases**
+
+Think of me as someone who prefers **working code over fancy theory**.
+
+---
+
+## 🛠 Tech Stack
+**Languages**
+- Python, Java  
+
+**Machine Learning / AI**
+- NumPy, Pandas, Matplotlib  
+- scikit-learn  
+- Basic Deep Learning & LLM workflows  
+
+**Tools & Platforms**
+- Git & GitHub  
+- Jupyter Notebook  
+- VS Code  
+- Streamlit / Flask (for deployment)  
+
+---
+
+## 🚀 Featured Projects
+🔹 **Cricket Score Prediction (ML)**  
+- Built linear regression from scratch + compared with scikit-learn  
+- Feature engineering, normalization, gradient descent  
+- Deployed using Streamlit  
+
+🔹 **DSA & Core CS Practice**  
+- Java-based implementations  
+- Focus on logic, edge cases, and performance  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 📌 Currently Learning
+- Advanced Machine Learning concepts  
+- LLM-based applications  
+- System design basics for engineers  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: *(linkedin.com/in/hardik-arora-582542283)*  
+
+---
+
+> “Learning by building. Breaking things intentionally.”
+
